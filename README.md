@@ -1,4 +1,4 @@
-## RagnarokSkillSpammer (v1.02)
+## Ragnarok Skill Spammer (v1.02)
 ###### This is an [AHK](https://www.autohotkey.com/ "AHK") Script for spamming the keys from F1~F9 on Ragnarok Online
 - You can toggle the click for each button
 
